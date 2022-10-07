@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cp -u *.html ..
+=======
+
+>>>>>>> b6e3441bdbea51c93b6b9a3b8ff86883b2c2a215
